@@ -3,10 +3,10 @@ import Button, {
   ButtonProps,
   ButtonSize,
   ButtonVariant,
-} from "../../components/Button/Button";
+} from "./Button";
 
 export default {
-  title: "Button",
+  title: "Components / Button",
   component: Button,
 } as ComponentMeta<typeof Button>;
 
