@@ -35,7 +35,9 @@ It is preferred for you to complete this exercise using:
 
 1. [ReactJS](https://react.dev/) with Typescript
 2. [Tailwind](https://tailwindcss.com/)
-3. [Storybook](https://storybook.js.org/) --- with an eye on [component drive design](https://www.componentdriven.org/)
+3. [Formik](https://formik.org/)
+4. [TanStack `react-table`](https://tanstack.com/table/v8/docs/guide/tables)
+5. [Storybook](https://storybook.js.org/) --- with an eye on [component drive design](https://www.componentdriven.org/)
 
 These are some of the tools we use in-house.
 
